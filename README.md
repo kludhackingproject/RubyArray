@@ -3,17 +3,18 @@
 Oh ouiii du RRRRubyyy ! Dans ce projet tu vas faire plein de programmes passionnants dans lesquels tu vas jouer avec des boucles, t'éclater avec des méthodes, et te sentir comme Champollion en Égypte quand il a enfin pigé ce que voulaient dire les hiéroglyphes. Par ailleurs, (tu vas dire qu'on insiste…) mais évidemment, toutes tes lignes de code devront être imbriqués dans des méthodes.
 
 Note : (on insiste aussi) ce projet est validant et donc à faire en pair-programming.
+
 ## 0 - Le projet
 
 Pour ce projet, crée un repository GitHub (un par équipe de pair-programmers). Pour chaque section du projet, tu devras créer un fichier qui contient les méthodes que l'on te demandera de faire. Afin d'éviter d'avoir un dossier un peu bordélique, range tous les programmes dans un dossier lib (c'est la convention de nommage pour les dossiers Ruby). À la fin, ton dossier devrait ressembler à ça :
 
-ton_dossier
-├── lib
-│   ├── 00_hello.rb
-│   ├── 01_pyramids.rb
-│   ├── 02_password.rb
-│   └── 03_stairway.rb
-└── README.md
+    ton_dossier
+    ├── lib
+    │   ├── 00_hello.rb
+    │   ├── 01_pyramids.rb
+    │   ├── 02_password.rb
+    │   └── 03_stairway.rb
+    └── README.md
 
 ## 1 - Programme 0 : Hello !
 
@@ -25,9 +26,11 @@ Vald a besoin de toi pour l'écriture de sa prochaine chanson à succès : il lu
 
 Code une méthode say_hello qui va dire bonjour quand on l'exécute. Ça devrait ressembler à quelque chose du genre :
 
+<code>
 def say_hello
   # mon code ici
 end
+</code>
 
 ### 1.2 - Coucou toi
 
@@ -54,13 +57,13 @@ Catastrophe, cette pyramide ne tient pas debout, tout s'effondre sur le côté. 
 Crée une méthode full_pyramid qui va construire plusieurs étages avec ce rendu dans le terminal :
 
 Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?
-> 5
-Voici la pyramide :
-    #
-   ###
-  #####
- #######
-#########
+
+  Voici la pyramide :
+      #
+     ###
+    #####
+   #######
+  #########
 
 ### 2.3 - Alexandrie, Alexandra
 
@@ -69,17 +72,17 @@ Ramsou (ça y est vous êtes potos) vient d'avoir une idée de génie : il voudr
 Crée une méthode wtf_pyramid qui va générer plusieurs étages de cette manière :
 
 Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ? (choisis un nombre impair)
-> 9
-Voici la pyramide :
-    #
-   ###
-  #####
- #######
-#########
- #######
-  #####
-   ###
-    #
+
+  Voici la pyramide :
+      #
+     ###
+    #####
+   #######
+  #########
+   #######
+    #####
+     ###
+      #
 
 Là tu touches à un concept qui va changer le monde de l'architecture !
 

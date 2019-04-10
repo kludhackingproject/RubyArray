@@ -1,28 +1,28 @@
 ############ Partie 1 ###############
 
-# brick = "#"
-# space = " "
-# n = 1
-#
-# puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?"
-# print "> "
-# number = gets.chomp.to_i
-#
-# y = number
-#
-# while n <= number
-#   y.times do
-#       print space
-#   end
-#
-#   n.times do
-#     print brick
-#   end
-#
-#   print ("\n")
-#   y -= 1
-#   n += 2
-# end
+brick = "#"
+space = " "
+n = 1
+
+puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?"
+print "> "
+number = gets.chomp.to_i
+
+y = number
+
+while n <= number
+  y.times do
+      print space
+  end
+
+  n.times do
+    print brick
+  end
+
+  print ("\n")
+  y -= 1
+  n += 2
+end
 
 ############ Partie 2 ###############
 
