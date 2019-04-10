@@ -58,12 +58,12 @@ Crée une méthode full_pyramid qui va construire plusieurs étages avec ce rend
 
 Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?
 
-  Voici la pyramide :
-      #
-     ###
-    #####
-   #######
-  #########
+    Voici la pyramide :
+        #
+       ###
+      #####
+     #######
+    #########
 
 ### 2.3 - Alexandrie, Alexandra
 
@@ -73,16 +73,16 @@ Crée une méthode wtf_pyramid qui va générer plusieurs étages de cette mani�
 
 Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ? (choisis un nombre impair)
 
-  Voici la pyramide :
-      #
-     ###
-    #####
-   #######
-  #########
-   #######
-    #####
-     ###
-      #
+    Voici la pyramide :
+        #
+       ###
+      #####
+     #######
+    #########
+     #######
+      #####
+       ###
+        #
 
 Là tu touches à un concept qui va changer le monde de l'architecture !
 
