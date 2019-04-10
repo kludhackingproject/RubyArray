@@ -27,8 +27,8 @@ Vald a besoin de toi pour l'écriture de sa prochaine chanson à succès : il lu
 Code une méthode say_hello qui va dire bonjour quand on l'exécute. Ça devrait ressembler à quelque chose du genre :
 
 <code>
-def say_hello
-  # mon code ici
+def say_hello  
+  # mon code ici  
 end
 </code>
 
