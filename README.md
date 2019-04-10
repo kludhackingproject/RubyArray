@@ -28,7 +28,9 @@ Code une méthode say_hello qui va dire bonjour quand on l'exécute. Ça devrait
 
 <code>
 def say_hello  
+
   # mon code ici  
+  
 end
 </code>
 
